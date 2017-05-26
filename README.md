@@ -9,3 +9,5 @@ The goal of this project was to replicate the homepage of www.google.com to be a
 - style those blocks to imitate the format of the original website
 
 - include forms and links to direct the user to other websites or get information from the user
+
+Access the site at: https://guyinalabcoat.github.io/google-homepage/
